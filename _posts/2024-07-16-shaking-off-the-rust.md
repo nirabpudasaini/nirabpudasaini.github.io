@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shaking Off the Rust- Rediscovering Android Programming with Kotlin
+title: Shaking Off the Rust - Rediscovering Android Programming with Kotlin
 ---
 
 It has been quite a long time since I last wrote some code. Recently, with some free time on my hands, I started exploring online resources to get back into coding. Having primarily worked as an Android developer, I naturally wanted to shake off the rust and dive back into creating Android apps after more than six years. Unsurprisingly, I found that the Android development ecosystem and the broader mobile development landscape have undergone significant changes during this time. Through this blog, I aim to document my reskilling journey. I hope it serves as a useful resource for others who might be interested in getting into Android development. 
@@ -33,6 +33,8 @@ From my initial research, I have identified mapped out a learning path that will
 
 ### Learning Basic Kotlin
 First, I need to familiarize myself with writing code in Kotlin. I will go through online resources to learn Kotlin syntax and the basic concepts of programming in Kotlin. 
+
+- [Basics of Kotlin - Part 1](/basics-of-kotlin-1)
 
 ### Learning Jetpack Compose
 The traditional method of building Android UIs with XML now has a better alternative. Jetpack Compose is the recommended way to build UIs in Android. I plan to explore Jetpack Compose by building a calculator app. 
