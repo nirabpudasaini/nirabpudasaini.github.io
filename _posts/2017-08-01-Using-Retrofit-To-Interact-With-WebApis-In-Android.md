@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Using Retrofit to Interact with WebAPIs in Android
+published: false
 ---
 
 Managing API calls can sometimes be a pain in the ass. You need to manage making calls to the server, take care of JSON serilization and deserilization and then inflate the layout form the data. Most of my time during android development previously was spent in doing this work. Recently I discovered a library which makes this task so much simpler. Square has a wonderful library called Retrofit and i have became a fan. 
