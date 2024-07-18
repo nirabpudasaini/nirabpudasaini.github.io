@@ -35,6 +35,7 @@ From my initial research, I have identified mapped out a learning path that will
 First, I need to familiarize myself with writing code in Kotlin. I will go through online resources to learn Kotlin syntax and the basic concepts of programming in Kotlin. 
 
 - [Basics of Kotlin - Part 1](/basics-of-kotlin-1)
+- [Basics of Kotlin - Part 2](/basics-of-kotlin-2)
 
 ### Learning Jetpack Compose
 The traditional method of building Android UIs with XML now has a better alternative. Jetpack Compose is the recommended way to build UIs in Android. I plan to explore Jetpack Compose by building a calculator app. 
