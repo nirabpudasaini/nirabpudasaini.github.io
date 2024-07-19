@@ -36,6 +36,7 @@ First, I need to familiarize myself with writing code in Kotlin. I will go throu
 
 - [Basics of Kotlin - Part 1](/basics-of-kotlin-1)
 - [Basics of Kotlin - Part 2](/basics-of-kotlin-2)
+- [Basics of Kotlin - Part 3](/basics-of-kotlin-3)
 
 ### Learning Jetpack Compose
 The traditional method of building Android UIs with XML now has a better alternative. Jetpack Compose is the recommended way to build UIs in Android. I plan to explore Jetpack Compose by building a calculator app. 
