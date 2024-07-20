@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning Kotlin Basics - Part 2 (Basic Data Types)
+title: Kotlin Basics - Basic Data Types
 ---
 
 In this post, we will explore how to take input from the user in the console. We will also explore the basic data types in Kotlin including numbers, strings, booleans and arrays. We will also look at common operations on these data types and how to perform them. This will also include some unique nuances of Kotlin language while dealing with these data types. 

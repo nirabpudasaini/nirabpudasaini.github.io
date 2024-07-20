@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning Kotlin Basics - Part 1 (Variables)
+title: Kotlin Basics - Variables
 ---
 
 Kotlin is a programming language developed by JetBrains, and it is now the default language for Android app development. Kotlin's syntax is similar to Java, but it is more concise and includes additional features such as type inference, null safety, and class extension. The easiest and fastest way to get started with Kotlin is by installing the [IntelliJ IDEA IDE](https://www.jetbrains.com/help/idea/installation-guide.html). After installing the IDE, you can start a new Kotlin project and run code directly in the editor or the REPL. You can also try Kotlin online in the [playground](https://play.kotlinlang.org/) on the Kotlin official website. You cannot write and compile Kotlin projects in the playground but it allows a quik way to test out and play with Kotlin code.

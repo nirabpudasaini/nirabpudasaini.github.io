@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning Kotlin Basics - Part 3 (Functions)
+title: Kotlin Basics - Functions
 ---
 
 Functions are block of code that can be called from other parts in your program. Functions makes code reusable and more readble. In the last two post we have already seen a few functions in action. One of them is the main() function which is automatically started when Kotlin program is started. We also have encountered other utility functions like println() that is used to print string to console, readln() which is used to read input from user and arrayOf() which is used to create an array. In this post we will creat our own functions and understand the different components of functions in Kotlin. Kotlin also has higher order functions and lambda expressions, but we will be looking at the in another post. 
