@@ -23,7 +23,7 @@ Hello world of Kotlin programming
 
 ## Variables
 
-Variables in Kotlin can be defined using either the `val` or `var` keywords. The type of the variable is infered by Kotlin but can also be specified during decleration. 
+Variables in Kotlin can be defined using either the `val` or `var` keywords. The type of the variable is infered by Kotlin but can also be specified during decleration. Lets look at how we can use the `val` and `var` to declare varaibles. 
 
 ```kotlin
 fun main() {
@@ -45,12 +45,13 @@ fun main() {
 ```
 Let us unpack the things going on in the above code. As you can see in the code we must declare a variable first before we can use it. In order to declare a variable , start with the val or var keyword. Then specify the variable name, data type, and initial value. For example: ```val count: Int = 2.```
 
-
 The val keyword is used to define a variable that is read-only and it's value cannot change once it has been assigned. This is what we have done with the *name* vriable. The var keyword to define a variable that is mutable or changeable. In the code the variable *age* has been assigned value of 35 and later updated to 36. In Kotlin, it's preferred to use val over var when possible.
 
-Since Kotlin has type inference, we can omit the data type in the variable declaration if an initial value is provided. In the code above the type of the variable *age* is automatically guessed by the value 36 assigned to it. However to be clear you can specify the data type in variable decleration. Some common basic Kotlin data types include: Int, String, Boolean, Float, and Double.
+Since Kotlin has type inference, we can omit the data type in the variable declaration if an initial value is provided. In the code above the type of the variable *age* is automatically guessed by the value 36 assigned to it. However to be clear you can specify the data type in variable decleration. Some common basic Kotlin data types include: Int, String, Boolean, Float, and Double. We look at different data types in Kotlin in [part 2 of basic kotlin posts](/basics-of-kotlin-2). 
 
-Additionally, the code has comments which are igonred by the compiler but can be used to provide information to make code more redable. The comment can be single line or multiline. Finally, as stated in the multiline comment, to assign null values to any variable, you need to explicitly specify it with a nullable type (e.g., Int?). Running the above code will produce the following output:
+Additionally, the code has comments which are igonred by the compiler but can be used to provide information and to make code more redable. The comment can either be a single line comment indicated by `//` or a multiline comment starting with `/*` and ending with `*/`. 
+
+Finally, as stated in the multiline comment, to assign null values to any variable, you need to explicitly specify it with a nullable type (e.g., Int?). Running the above code will produce the following output:
 
 ```
 Hello Nirab, you are 35
